@@ -1,5 +1,10 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
 
-/.android
+/Notes/bin/Debug/net8.0-ios/iossimulator-x64
+/Notes/bin/Debug/net8.0-maccatalyst/maccatalyst-x64
+/Notes/bin/Debug
+/Notes/obj/Debug/net8.0-android/android/assets/de
+/Notes/obj/Debug/net8.0-android/android/assets/el
+*.dll
+*.pdb
+/Notes/obj
+/.vs
